@@ -23,6 +23,7 @@ h1 {
 p {
     width: 500px;
     margin-left: 50px;
+    font-weight: 700;
 }
 
 .contactInfo{
