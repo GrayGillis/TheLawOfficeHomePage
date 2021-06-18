@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(/LawPage/lawIcon.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+.page{
+    display: flex;
+    align-items: center;
+}
+
+p {
+    width: 500px;
+    margin-left: 50px;
+}
+
+.contactInfo{
+    margin-left: 250px;
+}
