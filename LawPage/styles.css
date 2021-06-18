@@ -5,7 +5,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url("https://graygillis.github.io/TheLawOfficeHomePage/LawPage/lawIcon.jpeg");
+    background-image: url(lawIcon.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
